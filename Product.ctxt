@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Product
+comment0.text=Date\:\ 30/5/2019\r\nName\:\ Gary\ Beale\r\nStudent\ Number\:\ 3328065\r\nCourse\:\ Seng1110
+comment1.params=
+comment1.target=Product()
+comment2.params=newName
+comment2.target=void\ setName(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getProdName()
+comment4.params=newPrice
+comment4.target=void\ setPrice(double)
+comment5.params=
+comment5.target=double\ getProdPrice()
+comment6.params=newWeight
+comment6.target=void\ setWeight(double)
+comment7.params=
+comment7.target=double\ getProdWeight()
+comment8.params=newQuantity
+comment8.target=void\ setQuantity(int)
+comment9.params=
+comment9.target=int\ getProdQuantity()
+numComments=10
